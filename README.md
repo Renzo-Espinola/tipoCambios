@@ -1,4 +1,4 @@
-# Proyecto Rest api para realizar cambio de tipo de cotizacion de Monedas
+# Proyecto Rest API para realizar cambio de tipo de cotizacion de Monedas
  
  Objetivo: El objetivo es demostrar los conocimientos que poseo para el ingreso en Financiera OH!
  
