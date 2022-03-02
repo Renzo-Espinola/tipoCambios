@@ -11,6 +11,10 @@
               6-Ejecutar el siguiente comando para docker: docker run -d -p 8080:8080 (colocar el IMAGE ID que nos muestra la pantalla de docker)
               7-Testear sobre SWAGGER http://localhost:8080/swagger-ui.html#/ el estado de las API
               8-Puede consultar la Base de Datos H2.
+               -ingresar en http://localhost:8080/h2-console
+               -JDBC URL: jdbc:h2:mem:monedaCambioDB
+               -User Name: root
+               -Password: root
   
   Api: 
   
